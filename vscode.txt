@@ -1,0 +1,6 @@
+visualstudio.com
+msecnd.net
+microsoft.com
+omtrdc.net
+google-analytics.com
+vsassets.io
