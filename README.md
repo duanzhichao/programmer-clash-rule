@@ -1,19 +1,20 @@
-# ReadPg
+# ProgrammerClashRule
 
-To start your Phoenix server:
+## 简介
+本项目为程序员可使用的一些用于clash规则的常用域名,包含一些常用软件,以及一些常用网站,欢迎补充.
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## 规则文件地址
+- **git**
+  - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/git.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/git.txt)
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+- **编辑器atom**
+  - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/atom.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/atom.txt)
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+- **编辑器sublime**
+  - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/sublime.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/sublime.txt)
 
-## Learn more
+- **编辑器vscode**
+  - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/vscode.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/vscode.txt)
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+## 感谢
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
