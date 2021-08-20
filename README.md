@@ -15,6 +15,9 @@
 
 - **编辑器vscode**
   - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/vscode.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/vscode.txt)
+  - 
+- **nodejs**
+  - [https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/nodejs.txt](https://raw.githubusercontent.com/duanzhichao/programmer-clash-rule/main/nodejs.txt)
 
 ## 感谢
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
